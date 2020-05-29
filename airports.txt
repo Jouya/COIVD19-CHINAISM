@@ -1,0 +1,188 @@
+Aksu	Aksu Airport (AKU)	¦¦¦¦¦
+Altay	Altay Airport (AAT)	¦¦¦¦¦
+An Shun	An Shun/Huang Guo Shu Airport (AVA)	¦¦¦¦¦
+Ankang	Ankang Airport (AKA)	¦¦¦¦¦
+Anqing	Anqing Airport (AQG)	¦¦¦¦¦
+Anshan	Anshan Airport (AOG)	¦¦¦¦¦
+Anyang	Anyang Airport (AYN)	¦¦¦¦¦
+Bangda	Bangda Airport (BPX)	¦¦¦¦¦
+Baoshan	Baoshan Airport (BSD)	¦¦¦¦¦
+Baotou	Baotou Airport (BAV)	¦¦¦¦¦
+Beihai	Beihai Airport (BHY)	¦¦¦¦¦
+Beijing	Beijing Capital International Airport (PEK)	¦¦¦¦¦
+Beijing	Nanyuan Airport (NAY)	¦¦¦¦¦
+Bengbu	Bengbu Airport (BFU)	¦¦¦¦¦
+Changchun	Changchun Longjia International Airport (CGQ)	¦¦¦¦¦
+Changde	Changde Taohuayuan Airport (CGD)	¦¦¦¦¦
+Changhai	Changhai Airport (CNI)	¦¦¦¦¦
+Changsha	Changsha Huanghua International Airport (CSX)	¦¦¦¦¦
+Changzhi	Changzhi Airport (CIH)	¦¦¦¦¦
+Changzhou	Changzhou Airport (CZX)	¦¦¦¦¦
+Chaoyang	Chaoyang Airport (CHG)	¦¦¦¦¦
+Chengdu	Chengdu Shuangliu International Airport (CTU)	¦¦¦¦¦
+Chifeng	Chifeng Airport (CIF)	¦¦¦¦¦
+Chongqing	Chongqing Jiangbei International Airport (CKG)	¦¦¦¦¦
+Dali City	Dali Airport (DLU)	¦¦¦¦¦
+Dalian	Dalian Zhoushuizi International Airport (DLC)	¦¦¦¦¦
+Dandong	Dandong Airport (DDG)	¦¦¦¦¦
+Datong	Datong Airport (DAT)	¦¦¦¦¦
+Daxian	Daxian Airport (DAX)	¦¦¦¦¦
+Dayong	Dayong Airport (DYG)	¦¦¦¦¦
+Dazu	Dazu Airport (DZU)	¦¦¦¦¦
+Diqing	Diqing Airport (DIG)	¦¦¦¦¦
+Dongguan	Dongguan Airport (DGM)	¦¦¦¦¦
+Dongsheng	Dongsheng Airport (DSN)	¦¦¦¦¦
+Dongying	Dongying Airport (DOY)	¦¦¦¦¦
+Dunhuang	Dunhuang Airport (DNH)	¦¦¦¦¦
+Enshi	Enshi Airport (ENH)	¦¦¦¦¦
+Fuoshan	Fuoshan Airport (FUO)	¦¦¦¦¦
+Fuyang	Fuyang Airport (FUG)	¦¦¦¦¦
+Fuyun	Fuyun Airport (FYN)	¦¦¦¦¦
+Fuzhou	Fuzhou Changle International Airport (FOC)	¦¦¦¦¦
+Ganzhou	Ganzhou Airport (KOW)	¦¦¦¦¦
+Golmud	Golmud Airport (GOQ)	¦¦¦¦¦
+Guang Yuan	Guang Yuan Airport (GYS)	¦¦¦¦¦
+Guanghan	Guanghan Airport (GHN)	¦¦¦¦¦
+Guanghua	Guanghua Airport (LHK)	¦¦¦¦¦
+Guangzhou	Guangzhou Baiyun International Airport (CAN)	¦¦¦¦¦
+Guilin	Guilin Liangjiang International Airport (KWL)	¦¦¦¦¦
+Guiyang	Guiyang Longdongbao International Airport (KWE)	¦¦¦¦¦
+Haikou	Haikou Meilan International Airport (HAK)	¦¦¦¦¦
+Hailar	Hailar Airport (HLD)	¦¦¦¦¦
+Hami	Hami Airport (HMI)	¦¦¦¦¦
+Hangzhou	Hangzhou Xiaoshan International Airport (HGH)	¦¦¦¦¦
+Hanzhong	Hanzhong Airport (HZG)	¦¦¦¦¦
+Harbin	Harbin Taiping International Airport (HRB)	¦¦¦¦¦
+Hefei	Hefei Airport (HFE)	¦¦¦¦¦
+Heihe	Heihe Airport (HEK)	¦¦¦¦¦
+Hengyang	Hengyang Airport (HNY)	¦¦¦¦¦
+Hohhot	Hohhot Baita International Airport (HET)	¦¦¦¦¦
+Hotan	Hotan Airport (HTN)	¦¦¦¦¦
+Huaihua	Zhijiang Airport (HJJ)	¦¦¦¦¦
+Huanghua	Changsha Huanghua Airport (HHA)	¦¦¦¦¦
+Huangyan	Huangyan Airport (HYN)	¦¦¦¦¦
+Huizhou	Huizhou Airport (HUZ)	¦¦¦¦¦
+Humen	Humen Port Airport (ZTI)	¦¦¦¦¦
+Ji An	Ji An/Jing Gang Shan Airport (JGS)	¦¦¦¦¦
+Jiamusi	Jiamusi Airport (JMU)	¦¦¦¦¦
+Jiayuguan	Jiayuguan Airport (JGN)	¦¦¦¦¦
+Jieyang	Jieyang Chaoshan International Airport (SWA)	¦¦¦¦¦
+Jilin	Jilin Airport (JIL)	¦¦¦¦¦
+Jinan	Jinan Airport (TNA)	¦¦¦¦¦
+Jingdezhen	Jingdezhen Airport (JDZ)	¦¦¦¦¦
+Jinghong	Gasa Airport (JHG)	¦¦¦¦¦
+Jining	Jining Airport (JNG)	¦¦¦¦¦
+Jinjiang	Quanzhou Jinjiang Airport (JJN)	¦¦¦¦¦
+Jinzhou	Jinzhou Airport (JNZ)	¦¦¦¦¦
+Jiujiang	Jiujiang Airport (JIU)	¦¦¦¦¦
+Jiuquan	Jiuquan Airport (CHW)	¦¦¦¦¦
+Juzhou	Juzhou Airport (JUZ)	¦¦¦¦¦
+Karamay	Karamay Airport (KRY)	¦¦¦¦¦
+Kashi	Kashi Airport (KHG)	¦¦¦¦¦
+Korla	Korla Airport (KRL)	¦¦¦¦¦
+Kunming	Kunming Wujiaba International Airport (KMG)	¦¦¦¦¦
+Kuqa	Kuqa Airport (KCA)	¦¦¦¦¦
+Lanzhou	Lanzhou Zhongchuan Airport (LHW)	¦¦¦¦¦
+Lanzhou	Lanzhoudong Airport (LZD)	¦¦¦¦¦
+Lanzhou	Zhongchuan Airport (ZGC)	¦¦¦¦¦
+Lhasa	Lhasa Airport (LXA)	¦¦¦¦¦
+Liangping	Liangping Airport (LIA)	¦¦¦¦¦
+Lianhuashan	Lianhuashan Port Airport (ZIY)	¦¦¦¦¦
+Lianyungang	Lianyungang Airport (LYG)	¦¦¦¦¦
+Lijiang City	Lijiang Airport (LJG)	¦¦¦¦¦
+Lincang	Lincang Airport (LNJ)	¦¦¦¦¦
+LingLing	LingLing Airport (LLF)	¦¦¦¦¦
+Linxi	Linxi Airport (LXI)	¦¦¦¦¦
+Linyi	Linyi Airport (LYI)	¦¦¦¦¦
+Liping City	Liping Airport (HZH)	¦¦¦¦¦
+Liuzhou	Liuzhou Airport (LZH)	¦¦¦¦¦
+Longyan	Liancheng Airport (LCX)	¦¦¦¦¦
+Luoyang	Luoyang Airport (LYA)	¦¦¦¦¦
+Lushan	Lushan Airport (LUZ)	¦¦¦¦¦
+Luxi	Mangshi Airport (LUM)	¦¦¦¦¦
+Luzhou	Luzhou Airport (LZO)	¦¦¦¦¦
+Manzhouli	Manzhouli Airport (NZH)	¦¦¦¦¦
+Meixian	Meixian Airport (MXZ)	¦¦¦¦¦
+Mianyang	Mianyang Nanjiao Airport (MIG)	¦¦¦¦¦
+Mudanjiang	Mudanjiang Airport (MDG)	¦¦¦¦¦
+Nanchang	Nanchang Airport (KHN)	¦¦¦¦¦
+Nanchong	Nanchong Airport (NAO)	¦¦¦¦¦
+Nanjing	Nanking/Nanjing Airport (NKG)	¦¦¦¦¦
+Nanning	Nanning Wuxu International Airport (NNG)	¦¦¦¦¦
+Nantong	Nantong Airport (NTG)	¦¦¦¦¦
+Nanyang	Nanyang Airport (NNY)	¦¦¦¦¦
+Ningbo	Ningbo Airport (NGB)	¦¦¦¦¦
+Pan Zhi Hua	Pan Zhi Hua Bao AnYing Airport (PZI)	¦¦¦¦¦
+Peng Lai	Peng Lai/Sha He Kou Airport (PNJ)	¦¦¦¦¦
+Qiemo	Qiemo Airport (IQM)	¦¦¦¦¦
+Qingdao	Qingdao Liuting International Airport (TAO)	¦¦¦¦¦
+Qingyang	Qingyang Airport (IQN)	¦¦¦¦¦
+Qinhuangdao	Qinhuangdao Airport (SHP)	¦¦¦¦¦
+Qiqihar	Qiqihar Airport (NDG)	¦¦¦¦¦
+Rugao	Rugao Airport (RUG)	¦¦¦¦¦
+Sanya	Sanya Phoenix International Airport (SYX)	¦¦¦¦¦
+Shanghai	Shanghai Hongqiao International Airport (SHA)	¦¦¦¦¦
+Shanghai	Shanghai Pudong International Airport (PVG)	¦¦¦¦¦
+Shanhaiguan	Shanhaiguan Airport (SHF)	¦¦¦¦¦
+Shanshan	Shanshan Airport (SXJ)	¦¦¦¦¦
+Shanzhou	Shanzhou Airport (SZO)	¦¦¦¦¦
+Shaoguan	Shaoguan Airport (HSC)	¦¦¦¦¦
+Shashi	Shashi Airport (SHS)	¦¦¦¦¦
+Shekou	Shekou Port Airport (ZYK)	¦¦¦¦¦
+Shenyang	Shenyang Taoxian International Airport (SHE)	¦¦¦¦¦
+Shenzhen	Shenzhen Bao'an International Airport (SZX)	¦¦¦¦¦
+Shijiazhuang	Shijiazhuang Zhengding International Airport (SJW)	¦¦¦¦¦
+Simao	Simao Airport (SYM)	¦¦¦¦¦
+Song Pan	Jiu Zhai Huang Long Airport (JZH)	¦¦¦¦¦
+Sui Fen He	Sui Fen He Airport (FUD)	¦¦¦¦¦
+Suzhou	Suzhou Airport (SZV)	¦¦¦¦¦
+Tacheng	Tacheng Airport (TCG)	¦¦¦¦¦
+Tai Shan	Tai Shan Airport (ZCA)	¦¦¦¦¦
+Taiyuan	Taiyuan Airport (TYN)	¦¦¦¦¦
+Tianjin	Tianjin Binhai International Airport (TSN)	¦¦¦¦¦
+Tonghua	Tonghua Liuhe Airport (TNH)	¦¦¦¦¦
+Tongliao	Tongliao Airport (TGO)	¦¦¦¦¦
+Tongren	Tongren Airport (TEN)	¦¦¦¦¦
+Tunxi	Tunxi Airport (TXN)	¦¦¦¦¦
+Ulanhot	Ulanhot Airport (HLH)	¦¦¦¦¦
+Urumqi	Urumqi Airport (URC)	¦¦¦¦¦
+Wanxian	Wanxian Airport (WXN)	¦¦¦¦¦
+Weifang	Weifang Airport (WEF)	¦¦¦¦¦
+Weihai	Weihai Airport (WEH)	¦¦¦¦¦
+Wenzhou	Wenzhou Airport (WNZ)	¦¦¦¦¦
+Wu Hai	Wu Hai Airport (WUA)	¦¦¦¦¦
+Wuhan	Wuhan Airport (WUH)	¦¦¦¦¦
+Wuhu	Wuhu Airport (WHU)	¦¦¦¦¦
+Wuxi	Wuxi Airport (WUX)	¦¦¦¦¦
+Wuyishan	Wuyishan Airport (WUS)	¦¦¦¦¦
+Wuzhou	Changzhoudao Airport (WUZ)	¦¦¦¦¦
+Xi An	Xianyang Airport (XIY)	¦¦¦¦¦
+Xi An	Xiguan Airport (SIA)	¦¦¦¦¦
+Xiamen	Xiamen Gaoqi International Airport (XMN)	¦¦¦¦¦
+Xiangfan	Xiangfan Airport (XFN)	¦¦¦¦¦
+Xichang	Xichang Airport (XIC)	¦¦¦¦¦
+Xilinhot	Xilinhot Airport (XIL)	¦¦¦¦¦
+Xingcheng	Xingcheng Airport (XEN)	¦¦¦¦¦
+Xingning	Xingning Airport (XIN)	¦¦¦¦¦
+Xingtai	Xingtai Airport (XNT)	¦¦¦¦¦
+Xingyi	Xingyi Airport (ACX)	¦¦¦¦¦
+Xining	Xining Airport (XNN)	¦¦¦¦¦
+Xuzhou	Xuzhou Airport (XUZ)	¦¦¦¦¦
+Yancheng	Yancheng Airport (YNZ)	¦¦¦¦¦
+Yanji	Yanji Airport (YNJ)	¦¦¦¦¦
+Yantai	Laishan Airport (YNT)	¦¦¦¦¦
+Yibin	Yibin Airport (YBP)	¦¦¦¦¦
+Yichang	Yichang Airport (YIH)	¦¦¦¦¦
+Yilan	Yilan Airport (YLN)	¦¦¦¦¦
+Yinchuan	Yinchuan Airport (INC)	¦¦¦¦¦
+Yining	Yining Airport (YIN)	¦¦¦¦¦
+Yiwu	Yiwu Airport (YIW)	¦¦¦¦¦
+Yuanmou	Yuanmou Airport (YUA)	¦¦¦¦¦
+Yulin	Yulin Airport (UYN)	¦¦¦¦¦
+Zhanjiang	Zhanjiang Airport (ZHA)	¦¦¦¦¦
+Zhaotong	Zhaotong Airport (ZAT)	¦¦¦¦¦
+Zhengzhou	Zhengzhou Airport (CGO)	¦¦¦¦¦
+Zhoubai	Qianjiang Wulingshan Airport (JIQ)	¦¦¦¦¦
+Zhoushan	Zhoushan Airport (HSN)	¦¦¦¦¦
+Zhuhai	Zhuhai Sanzao Airport (ZUH)	¦¦¦¦¦
+Zunyi	Zunyi Airport (ZYI)
